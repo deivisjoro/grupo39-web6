@@ -1,0 +1,10 @@
+co\deivisjoro\grupo39\web6\bd\Conexion.class
+co\deivisjoro\grupo39\web6\modelos\entidades\Estudiante.class
+co\deivisjoro\grupo39\web6\modelos\entidades\Usuario.class
+co\deivisjoro\grupo39\web6\recursos\UsuarioRecurso.class
+co\deivisjoro\grupo39\web6\recursos\EstudianteRecurso.class
+co\deivisjoro\grupo39\web6\recursos\filtros\Autorizacion.class
+co\deivisjoro\grupo39\web6\utilidades\Mensaje.class
+co\deivisjoro\grupo39\web6\modelos\dao\EstudianteDAO.class
+co\deivisjoro\grupo39\web6\Aplicacion.class
+co\deivisjoro\grupo39\web6\modelos\dao\UsuarioDAO.class
